@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tavernlight Assessment/.vs/Tavernlight Assessment
+/Tavernlight Assessment/.vs/Tavernlight Assessment/FileContentIndex
+/Tavernlight Assessment/.vs/Tavernlight Assessment/v17
+/Tavernlight Assessment/x64/Debug
